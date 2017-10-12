@@ -3,5 +3,8 @@ html {
   font-family: "PT Sans", sans-serif;
   text-transform: none;
   color: #8f2440;
+}
 
+h1 {
+  color: #8f2440;
 }
